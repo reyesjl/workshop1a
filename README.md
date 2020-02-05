@@ -1,2 +1,1 @@
-# workshop1a
-node.js app for workshops
+# WORKSHOP 1a
